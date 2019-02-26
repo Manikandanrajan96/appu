@@ -1,0 +1,29 @@
+VirtualBox COM Server 5.0.8_OSE r103449 win.amd64 (Aug  4 2016 19:39:49) release log
+00:00:03.414728 main     Log opened 2019-02-26T05:41:36.507527900Z
+00:00:03.414728 main     Build Type: release
+00:00:03.414728 main     OS Product: Windows 10
+00:00:03.414728 main     OS Release: 10.0.16299
+00:00:03.414728 main     OS Service Pack: 
+00:00:04.235891 main     DMI Product Name: HP Pro 3330 MT 
+00:00:04.257398 main     DMI Product Version:  
+00:00:04.257398 main     Host RAM: 3983MB total, 736MB available
+00:00:04.257398 main     Executable: C:\Program Files\Leapdroid\VM\LeapdroidVMSVC.exe
+00:00:04.257398 main     Process ID: 1624
+00:00:04.257398 main     Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:04.338534          Home directory: 'C:\Users\mca\Documents\Leapdroid'
+00:00:04.430428          Loading settings file "C:\Users\mca\Documents\Leapdroid\VirtualBox.xml" with version "1.12-windows"
+00:00:04.831845          Skipped non-Ethernet 'Loopback Pseudo-Interface 1'
+00:00:04.880723          HostDnsMonitor: old information
+00:00:04.880723            no server entries
+00:00:04.880723            no search string entries
+00:00:04.880723            no domain set
+00:00:04.880723          HostDnsMonitor: new information
+00:00:04.881700            server 1: 8.8.8.8
+00:00:04.881700            server 2: 8.8.4.4
+00:00:04.881700            no search string entries
+00:00:04.881700            no domain set
+00:00:04.894410          HostDnsMonitorProxy::notify
+00:00:04.917278          VD: VDInit finished
+00:00:05.028971          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={37797299-3c74-4fad-9b04-afff8c65bc5a} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:05.191264          Loading settings file "C:\Users\mca\Documents\Leapdroid\VMs\vm1\vm1.vbox" with version "1.15-windows"
+00:00:05.446412          Loading settings file "C:\Users\mca\Documents\Leapdroid\VMs\vm2\vm2.vbox" with version "1.15-windows"
